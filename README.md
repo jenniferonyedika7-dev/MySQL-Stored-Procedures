@@ -4,7 +4,7 @@ A collection of MySQL stored procedures for managing accounts, orders, students,
 
 A collection of MySQL stored procedures built using MySQL 8.4 and phpMyAdmin 5.2.3.
 
-## Procedures
+## Procedures.
 
 - **accountTypeReport** — Compares account orders and customer activity between two date ranges.
 - **generate_school_report** — Generates a student grade report with performance evaluation and class average comparison.
